@@ -44,6 +44,11 @@ pip install pytest
 python -m pytest
 ```
 
+## Version portable (sans Python ni pip)
+
+`python tools/build_portable.py` construit `dist/VocabApp-portable.zip` : Python embarqué + toutes les dépendances Windows.
+Sur le poste cible : dézipper puis double-clic sur `Lancer_VocabApp.bat` (ou `Lancer_avec_console.bat` pour voir les erreurs).
+
 ## Générer un .exe (optionnel)
 
 ```bat
