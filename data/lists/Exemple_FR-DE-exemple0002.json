@@ -1,0 +1,56 @@
+{
+  "id": "exemple0002",
+  "name": "Exemple FR-DE",
+  "source_lang": "fr",
+  "target_lang": "de",
+  "pairs": [
+    {
+      "source": "la maison",
+      "target": "das Haus"
+    },
+    {
+      "source": "le chat",
+      "target": "die Katze"
+    },
+    {
+      "source": "le chien",
+      "target": "der Hund"
+    },
+    {
+      "source": "l'eau",
+      "target": "das Wasser"
+    },
+    {
+      "source": "le livre",
+      "target": "das Buch"
+    },
+    {
+      "source": "manger",
+      "target": "essen"
+    },
+    {
+      "source": "la voiture",
+      "target": "das Auto"
+    },
+    {
+      "source": "l'ami",
+      "target": "der Freund"
+    },
+    {
+      "source": "heureux",
+      "target": "glücklich"
+    },
+    {
+      "source": "la fenêtre",
+      "target": "das Fenster"
+    },
+    {
+      "source": "la rue",
+      "target": "die Straße"
+    },
+    {
+      "source": "l'école",
+      "target": "die Schule"
+    }
+  ]
+}

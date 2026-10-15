@@ -1,0 +1,56 @@
+{
+  "id": "exemple0001",
+  "name": "Exemple FR-EN",
+  "source_lang": "fr",
+  "target_lang": "en",
+  "pairs": [
+    {
+      "source": "la maison",
+      "target": "house"
+    },
+    {
+      "source": "le chat",
+      "target": "cat"
+    },
+    {
+      "source": "le chien",
+      "target": "dog"
+    },
+    {
+      "source": "l'eau",
+      "target": "water"
+    },
+    {
+      "source": "le livre",
+      "target": "book"
+    },
+    {
+      "source": "manger",
+      "target": "to eat"
+    },
+    {
+      "source": "la voiture",
+      "target": "car"
+    },
+    {
+      "source": "l'ami",
+      "target": "friend"
+    },
+    {
+      "source": "heureux",
+      "target": "happy"
+    },
+    {
+      "source": "la fenêtre",
+      "target": "window"
+    },
+    {
+      "source": "le pain",
+      "target": "bread"
+    },
+    {
+      "source": "l'école",
+      "target": "school"
+    }
+  ]
+}
