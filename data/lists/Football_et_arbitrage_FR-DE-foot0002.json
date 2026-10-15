@@ -1,0 +1,168 @@
+{
+  "id": "foot0002",
+  "name": "Football et arbitrage FR-DE",
+  "source_lang": "fr",
+  "target_lang": "de",
+  "pairs": [
+    {
+      "source": "l'arbitre",
+      "target": "der Schiedsrichter"
+    },
+    {
+      "source": "l'arbitre assistant",
+      "target": "der Schiedsrichterassistent / der Linienrichter"
+    },
+    {
+      "source": "le quatrième arbitre",
+      "target": "der vierte Offizielle"
+    },
+    {
+      "source": "l'arbitrage vidéo (VAR)",
+      "target": "der Videobeweis / der Video-Assistent"
+    },
+    {
+      "source": "le hors-jeu",
+      "target": "das Abseits"
+    },
+    {
+      "source": "le penalty",
+      "target": "der Elfmeter / der Strafstoß"
+    },
+    {
+      "source": "le coup franc",
+      "target": "der Freistoß"
+    },
+    {
+      "source": "le corner",
+      "target": "der Eckball / die Ecke"
+    },
+    {
+      "source": "la touche",
+      "target": "der Einwurf"
+    },
+    {
+      "source": "le carton jaune",
+      "target": "die Gelbe Karte"
+    },
+    {
+      "source": "le carton rouge",
+      "target": "die Rote Karte"
+    },
+    {
+      "source": "l'avertissement",
+      "target": "die Verwarnung"
+    },
+    {
+      "source": "l'expulsion",
+      "target": "der Platzverweis"
+    },
+    {
+      "source": "la faute",
+      "target": "das Foul"
+    },
+    {
+      "source": "la main",
+      "target": "das Handspiel"
+    },
+    {
+      "source": "l'avantage",
+      "target": "der Vorteil"
+    },
+    {
+      "source": "le temps additionnel",
+      "target": "die Nachspielzeit"
+    },
+    {
+      "source": "la mi-temps",
+      "target": "die Halbzeit"
+    },
+    {
+      "source": "le coup d'envoi",
+      "target": "der Anstoß"
+    },
+    {
+      "source": "le six mètres",
+      "target": "der Abstoß"
+    },
+    {
+      "source": "la surface de réparation",
+      "target": "der Strafraum"
+    },
+    {
+      "source": "le but",
+      "target": "das Tor"
+    },
+    {
+      "source": "le gardien de but",
+      "target": "der Torwart / der Torhüter"
+    },
+    {
+      "source": "le défenseur",
+      "target": "der Verteidiger"
+    },
+    {
+      "source": "le milieu de terrain",
+      "target": "der Mittelfeldspieler"
+    },
+    {
+      "source": "l'attaquant",
+      "target": "der Stürmer"
+    },
+    {
+      "source": "le remplacement",
+      "target": "die Auswechslung"
+    },
+    {
+      "source": "la prolongation",
+      "target": "die Verlängerung"
+    },
+    {
+      "source": "la séance de tirs au but",
+      "target": "das Elfmeterschießen"
+    },
+    {
+      "source": "la simulation",
+      "target": "die Schwalbe"
+    },
+    {
+      "source": "la perte de temps",
+      "target": "das Zeitspiel"
+    },
+    {
+      "source": "le sifflet",
+      "target": "die Pfeife"
+    },
+    {
+      "source": "la ligne de but",
+      "target": "die Torlinie"
+    },
+    {
+      "source": "le mur",
+      "target": "die Mauer"
+    },
+    {
+      "source": "l'erreur d'arbitrage",
+      "target": "die Fehlentscheidung"
+    },
+    {
+      "source": "le match nul",
+      "target": "das Unentschieden"
+    },
+    {
+      "source": "la balle à terre",
+      "target": "der Schiedsrichterball"
+    },
+    {
+      "source": "le tacle",
+      "target": "die Grätsche"
+    },
+    {
+      "source": "le tacle par derrière",
+      "target": "das Foul von hinten"
+    },
+    {
+      "source": "le terrain",
+      "target": "das Spielfeld"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "foot0001",
+  "name": "Football et arbitrage FR-EN",
+  "source_lang": "fr",
+  "target_lang": "en",
+  "pairs": [
+    {
+      "source": "l'arbitre",
+      "target": "referee"
+    },
+    {
+      "source": "l'arbitre assistant",
+      "target": "assistant referee / linesman"
+    },
+    {
+      "source": "le quatrième arbitre",
+      "target": "fourth official"
+    },
+    {
+      "source": "l'arbitrage vidéo (VAR)",
+      "target": "video assistant referee / VAR"
+    },
+    {
+      "source": "le hors-jeu",
+      "target": "offside"
+    },
+    {
+      "source": "le penalty",
+      "target": "penalty / penalty kick"
+    },
+    {
+      "source": "le coup franc",
+      "target": "free kick"
+    },
+    {
+      "source": "le corner",
+      "target": "corner kick / corner"
+    },
+    {
+      "source": "la touche",
+      "target": "throw-in"
+    },
+    {
+      "source": "le carton jaune",
+      "target": "yellow card"
+    },
+    {
+      "source": "le carton rouge",
+      "target": "red card"
+    },
+    {
+      "source": "l'avertissement",
+      "target": "caution / booking"
+    },
+    {
+      "source": "l'expulsion",
+      "target": "sending-off"
+    },
+    {
+      "source": "la faute",
+      "target": "foul"
+    },
+    {
+      "source": "la main",
+      "target": "handball"
+    },
+    {
+      "source": "l'avantage",
+      "target": "advantage"
+    },
+    {
+      "source": "le temps additionnel",
+      "target": "stoppage time / added time"
+    },
+    {
+      "source": "la mi-temps",
+      "target": "half-time"
+    },
+    {
+      "source": "le coup d'envoi",
+      "target": "kick-off"
+    },
+    {
+      "source": "le six mètres",
+      "target": "goal kick"
+    },
+    {
+      "source": "la surface de réparation",
+      "target": "penalty area / box"
+    },
+    {
+      "source": "le but",
+      "target": "goal"
+    },
+    {
+      "source": "le gardien de but",
+      "target": "goalkeeper"
+    },
+    {
+      "source": "le défenseur",
+      "target": "defender"
+    },
+    {
+      "source": "le milieu de terrain",
+      "target": "midfielder"
+    },
+    {
+      "source": "l'attaquant",
+      "target": "striker / forward"
+    },
+    {
+      "source": "le remplacement",
+      "target": "substitution"
+    },
+    {
+      "source": "la prolongation",
+      "target": "extra time"
+    },
+    {
+      "source": "la séance de tirs au but",
+      "target": "penalty shootout"
+    },
+    {
+      "source": "la simulation",
+      "target": "dive / simulation"
+    },
+    {
+      "source": "la perte de temps",
+      "target": "time-wasting"
+    },
+    {
+      "source": "le sifflet",
+      "target": "whistle"
+    },
+    {
+      "source": "la ligne de but",
+      "target": "goal line"
+    },
+    {
+      "source": "le mur",
+      "target": "wall"
+    },
+    {
+      "source": "l'erreur d'arbitrage",
+      "target": "refereeing error / wrong decision"
+    },
+    {
+      "source": "le match nul",
+      "target": "draw"
+    },
+    {
+      "source": "la balle à terre",
+      "target": "drop ball"
+    },
+    {
+      "source": "le tacle",
+      "target": "tackle"
+    },
+    {
+      "source": "le tacle par derrière",
+      "target": "tackle from behind"
+    },
+    {
+      "source": "le terrain",
+      "target": "pitch / field"
+    }
+  ]
+}
