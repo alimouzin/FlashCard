@@ -17,7 +17,7 @@ app.setStyleSheet(STYLE)
 
 def test_full_flow(tmp_path):
     win = MainWindow(Storage(tmp_path))
-    assert len(win.lists) == 2
+    assert len(win.lists) == 4
     # Création + saisie d'une paire (avec faute : ne doit pas bloquer)
     win.new_list()
     win.edit.name.setText("Test")
